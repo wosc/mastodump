@@ -1,6 +1,6 @@
 [project]
 name = "ws.mastodump"
-version = "1.1.0.dev0"
+version = "1.0.1"
 description = "Incremental export of mastodon posts and boosts to plain text"
 
 dependencies = [
