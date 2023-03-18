@@ -20,9 +20,6 @@ dynamic = ["readme"]
 requires = ["hatchling", "hatch-fancy-pypi-readme"]
 build-backend = "hatchling.build"
 
-[tool.hatch.build]
-only-packages = true
-
 [tool.hatch.build.targets.wheel]
 packages = ["src/ws"]  # required for pep420 namespace package, pypa/hatch#587
 

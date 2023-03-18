@@ -1,8 +1,8 @@
 ## Changelog
 
-### 1.1.0 (unreleased)
+### 1.0.1 (unreleased)
 
-- Nothing changed yet
+- Fix brown-bag release
 
 ### 1.0.0 (2023-03-18)
 
